@@ -10,6 +10,13 @@
 
 *HP · Dell · Lenovo · Cisco · Supermicro — up to 60–80% off, with warranty.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/serverwale/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/serverwale/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Serverwale)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/people/Serverwale/61555058137586/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@serverwale0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918796244410)
+
 </div>
 
 ---
@@ -52,6 +59,15 @@ Burari, New Delhi, Delhi — 110084, India
 📞 +91-87962-44410
 🌐 [serverwale.com](https://serverwale.com)
 📧 sales@serverwale.com
+
+## 🔗 Connect With Us
+
+- **LinkedIn** — https://www.linkedin.com/company/serverwale/
+- **Instagram** — https://www.instagram.com/serverwale/
+- **X (Twitter)** — https://x.com/Serverwale
+- **Facebook** — https://www.facebook.com/people/Serverwale/61555058137586/
+- **YouTube** — https://www.youtube.com/@serverwale0
+- **WhatsApp** — https://wa.me/918796244410
 
 ---
 
